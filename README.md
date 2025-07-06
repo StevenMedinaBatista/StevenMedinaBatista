@@ -110,7 +110,7 @@ Estoy trabajando en la automatización de pruebas E2E para aplicaciones móviles
 </div>
 
 - 🎮 Jugar videojuegos
-- 💡 Aprender sobre desarrollo y nuevas tecnologías
+- 💡 Aprender sobre desarrollo, calidad de software, automatizaciones de apps y nuevas tecnologías
 - 🎨 Investigar sobre creación de personajes en **pixel art**
 - 🕹️ Interesado en el **desarrollo de videojuegos** como hobby
 
