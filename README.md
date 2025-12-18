@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![AWS Device Farm](https://img.shields.io/badge/-AWS%20Device%20Farm-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF6C37?style=flat&logo=browserstack&logoColor=white)
 
 ### 📊 Reportes
 
@@ -78,6 +79,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Frontend
 
@@ -98,7 +100,7 @@ Estoy trabajando en la automatización de pruebas E2E para aplicaciones móviles
 - Arquitectura basada en el **modelo POM**
 - Reportería con **Allure**
 - Enfoque BDD con **Cucumber**
-- Ejecución remota en **AWS Device Farm**
+- Ejecución remota en **AWS Device Farm y BroserStack**
 - Integración continua con **Jenkins**
 
 ---
