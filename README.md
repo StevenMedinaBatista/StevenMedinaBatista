@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://webdriver.io/img/webdriverio.png" width="100" alt="WebdriverIO logo" />
   <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Steven Medina Batista</h1>
-  <h3>QA Automation Engineer | Mobile Automation</h3>
+  <h3 data-test="Profesion">QA Automation Engineer | Mobile Automation</h3>
   <p>
     <em>
       Apasionado por la automatización de pruebas móviles y web. 
