@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://webdriver.io/img/webdriverio.png" width="100" alt="WebdriverIO logo" />
   <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Steven Medina Batista</h1>
-  <h3>QA Automation Engineer | Mobile Automation</h3>
+  <h3>QA Automation Engineer | Mobile & Web Automation</h3>
   <p>
     <em>
-      Apasionado por la automatización de pruebas móviles y web. 
+      Especializado en automatización de pruebas para aplicaciones móviles y web,
+    utilizando frameworks modernos como WebdriverIO, Cypress y Selenium
+    para garantizar calidad, estabilidad y escalabilidad. 
       Ayudo a equipos a entregar software de calidad más rápido y seguro.
     </em>
   </p>
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
 ## 🛠️ Habilidades Técnicas
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
-### 🚀 Automatización y QA
+### 🚀 Automatización y QA (Mobile & Web)
 
 ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-EA5905?style=flat&logo=webdriverio&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-00B5D8?style=flat&logo=appium&logoColor=white)
@@ -48,9 +50,11 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-gray?style=flat)
 
-- Automatización de pruebas para **apps Android e iOS**
-- Experiencia en emuladores y dispositivos reales
-- Manejo fluido de entornos nativos: **Android Studio** y **Xcode**
+- Automatización de pruebas **Web y Mobile (E2E)**
+- Aplicaciones Web modernas (SPA)
+- Apps móviles **Android e iOS**
+- Pruebas en emuladores, simuladores y dispositivos reales
+- Experiencia con **WebdriverIO, Cypress y Selenium**
 
 ### ⚙️ CI/CD y Cloud Testing
 
